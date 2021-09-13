@@ -1,0 +1,21 @@
+{
+    "name": "marvin-theme",
+    "displayName": "marvin-theme",
+    "description": "A vibrant colors for a better developer experience.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Marvin Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Marvin Theme-color-theme.json"
+            }
+        ]
+    }
+}
